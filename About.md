@@ -20,7 +20,7 @@ B.Tech in Electrical Engineering as my major.
             <span class="icon fa-history"></span>
             <div class="content">
                 <h3>Courses</h3>
-                <p><a href="/courses">Here</a> is the list of courses that I have taken and am taking.</p>
+                <p><a href="/Courses">Here</a> is the list of courses that I have taken and am taking.</p>
             </div>
         </article>
         <article>
