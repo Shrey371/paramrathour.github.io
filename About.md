@@ -17,25 +17,32 @@ B.Tech in Electrical Engineering as my major.
     </header>
     <div class="features">
         <article>
-            <span class="icon fa-history"></span>
-            <div class="content">
-                <h3>Courses</h3>
-                <p><a href="/Courses">Here</a> is the list of courses that I have taken and am taking.</p>
-            </div>
-        </article>
-        <article>
             <span class="icon fa-gamepad"></span>
             <div class="content">
                 <h3>Interests</h3>
-                <p><a href="/Interests">Here</a> are some things I like.</p>
+                <p>Some <a href="/Interests">Things</a> I like.</p>
+            </div>
+        </article>
+        <article>
+            <span class="icon fa-user"></span>
+            <div class="content">
+                <h3>Blog</h3>
+                <p>My <a href="/Blog">Blog</a>.</p>
+            </div>
+        </article>
+        <article>
+            <span class="icon fa-book"></span>
+            <div class="content">
+                <h3>Courses</h3>
+                <p>List of <a href="/Courses">Courses</a> that I have taken and am taking.</p>
             </div>
         </article>
         <article>
             <span class="icon fa-code"></span>
             <div class="content">
                 <h3>Projects</h3>
-                <p><a href="/Projects">Here</a> is the list of some of my projects.</p>
+                <p>List of some of my <a href="/Projects">Projects</a>.</p>
             </div>
         </article>
     </div>
-</section>  
+</section>
